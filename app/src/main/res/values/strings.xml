@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Photo Gallery</string>
+    <string name="photos_title">Photos</string>
+    <string name="detail_title">Detail</string>
+    <string name="back">Back</string>
+    <string name="retry">Retry</string>
+    <string name="retry_image">Retry image</string>
+    <string name="empty_photos">No photos available.</string>
+    <string name="unknown_author">Unknown author</string>
+    <string name="image_by_author">Image by %1$s</string>
+    <string name="image_load_error">Unable to load this image.</string>
+    <string name="network_error">Unable to connect. Check your connection and try again.</string>
+    <string name="service_error">The photo service is unavailable. Please try again.</string>
+    <string name="invalid_data_error">The photo data could not be read. Please try again.</string>
+</resources>
