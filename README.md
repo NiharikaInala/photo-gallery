@@ -39,38 +39,37 @@ Photograph metadata and images are provided by the [Lorem Picsum API](https://pi
 
 | Photo list | Photo detail loading | Photo detail |
 | --- | --- | --- |
-| <img width="1080" height="2340" alt="Screenshot_20260913_192206" src="https://github.com/user-attachments/assets/44d86cfe-874b-45ce-8815-2da2cb43ec3c" /> | <img width="1080" height="2340" alt="Screenshot_20260913_192240" src="https://github.com/user-attachments/assets/95213945-843b-4e57-a8a6-4187f90aaf70" /> | <img width="1080" height="2340" alt="Screenshot_20260913_192307" src="https://github.com/user-attachments/assets/abbad9b5-8fc0-4721-82c3-267c04ed6895" /> |
+| <img width="1080" height="2340" alt="Screenshot_20260913_192206" src="https://github.com/user-attachments/assets/41c9a7a5-7962-4662-89e6-2ebc7cd1867c" />| <img width="1080" height="2340" alt="Screenshot_20260913_192240" src="https://github.com/user-attachments/assets/88af71dd-9d52-443a-849a-b7f9e78bc2db" />| <img width="1080" height="2340" alt="Screenshot_20260913_192307" src="https://github.com/user-attachments/assets/4cc3716f-3ff2-4e98-b2a8-59afc567a21a" />
+
 
 
 
 ## UI Test Coverage
 
-<img width="1440" height="339" alt="UI_test_coverage" src="https://github.com/user-attachments/assets/9852225a-52a4-46e5-a643-58fec7b852ba" />
+<img width="1440" height="339" alt="UI_test_coverage" src="https://github.com/user-attachments/assets/09b21f2e-5728-4101-a907-fe170dfabb84" />
 
-<img width="1440" height="439" alt="ui_test_coverage_2" src="https://github.com/user-attachments/assets/007a509b-6f91-40cc-9371-3e06c8928512" />
+<img width="1440" height="439" alt="ui_test_coverage_2" src="https://github.com/user-attachments/assets/655807a4-60c2-4d0a-b499-e373ce581d20" />
+
 
 
 ## Unit Test Coverage
 
-<img width="1440" height="439" alt="Screenshot 2026-09-13 at 8 13 03 PM" src="https://github.com/user-attachments/assets/5309904c-dfe0-4390-a8f3-60bfe6cffb15" />
+<img width="1440" height="439" alt="Screenshot 2026-09-13 at 8 13 03 PM" src="https://github.com/user-attachments/assets/7147725d-4377-4f81-8d3e-f7b57d7cd948" />
 
-<img width="1440" height="451" alt="Screenshot 2026-09-13 at 8 13 33 PM" src="https://github.com/user-attachments/assets/1b4e05ce-c66c-4c13-b3d6-fcc532d817a8" />
+<img width="1440" height="451" alt="Screenshot 2026-09-13 at 8 13 33 PM" src="https://github.com/user-attachments/assets/199726a1-c5d7-481e-80ab-7d67dc05b41e" />
 
-<img width="1440" height="252" alt="Screenshot 2026-09-13 at 8 13 17 PM" src="https://github.com/user-attachments/assets/b4eaad2b-9b34-48a7-afe6-c41a384a4ac4" />
-
-
-
-
+<img width="1440" height="252" alt="Screenshot 2026-09-13 at 8 13 17 PM" src="https://github.com/user-attachments/assets/33d0e785-3e39-4097-b8d2-b942760ae72a" />
 
 ## Demo
 
-<img width="400" height="893" alt="Screen_recording_20260913_220123" src="https://github.com/user-attachments/assets/71eb2589-1ca5-4037-b8af-9bda285e25ae" />
+<img width="400" height="893" alt="Screen_recording_20260913_220123" src="https://github.com/user-attachments/assets/d7ac79b6-d77f-4af0-874d-031dacb0da28" />
+
 
 ## Download
 
 A prebuilt debug APK is available:
 
-[Download Photo Gallery APK](https://github.com/NiharikaInala/PhotoGallery/releases/download/v1.0.0/photo-gallery-debug.apk)
+[Download Photo Gallery APK](https://github.com/NiharikaInala/photo-gallery/releases/download/v1.0.0/photo-gallery-debug.apk)
 
 Android may require permission to install applications from the browser or file manager.
 
